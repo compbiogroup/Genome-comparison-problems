@@ -1,0 +1,9 @@
+elias2005.db.24 filter=lfs diff=lfs merge=lfs -text
+elias2005.db.9 filter=lfs diff=lfs merge=lfs -text
+elias2005.db.bad filter=lfs diff=lfs merge=lfs -text
+elias2005.db.12 filter=lfs diff=lfs merge=lfs -text
+elias2005.db.21 filter=lfs diff=lfs merge=lfs -text
+elias2005.db.27 filter=lfs diff=lfs merge=lfs -text
+elias2005.db.comb filter=lfs diff=lfs merge=lfs -text
+elias2005.db.15 filter=lfs diff=lfs merge=lfs -text
+elias2005.db.18 filter=lfs diff=lfs merge=lfs -text
